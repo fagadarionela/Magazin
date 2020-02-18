@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="D:\Downloads\mysql-connector-java-5.1.47\mysql-connector-java-5.1.47\mysql-connector-java-5.1.47.jar;D:\Downloads\mysql-connector-java-8.0.15\mysql-connector-java-8.0.15\mysql-connector-java-8.0.15.jar;D:\Downloads\mysql-connector-java-5.1.47\mysql-connector-java-5.1.47\mysql-connector-java-5.1.47-bin.jar" destdir="doc" doctitle="Documentation" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="bll,dao,model,presentation,connection,bll.validators,start" source="10" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
